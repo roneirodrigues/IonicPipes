@@ -1,0 +1,7 @@
+{
+  "name": "pipeteste",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
