@@ -1,5 +1,5 @@
-# pipes
-Pipes
+# Ionic Pipes
+Ionic Pipes
 # Ionic Info
 
 Ionic:
